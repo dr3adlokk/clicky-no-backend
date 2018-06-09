@@ -2,73 +2,73 @@
   {
     "id": 1,
     "name": "Maka",
-    "image": "../public/images/maka.jpg",
+    "image": "./images/maka.jpg",
     "clicked": false
   },
   {
     "id": 2,
     "name": "Evans",
-    "image": "../public/images/evans.jpg",
+    "image": "./images/evans.jpg",
     "clicked": false
   },
   {
     "id": 3,
     "name": "Black Star",
-    "image": "../public/images/black-star.jpg",
+    "image": "./images/black-star.png",
     "clicked": false
   },
   {
     "id": 4,
     "name": "Tsubaki Nakatsukasa",
-    "image": "../public/images/tsu.jpg",
+    "image": "./images/tsu.jpg",
     "clicked": false
   },
   {
     "id": 5,
     "name": "Death the Kid",
-    "image": "../public/images/death.jpg",
+    "image": "./images/death.jpg",
     "clicked": false
   },
   {
     "id": 6,
     "name": "Liz & Patty",
-    "image": "../public/images/liz-patty.jpg",
+    "image": "./images/liz-patty.jpg",
     "clicked": false
   },
   {
     "id": 7,
     "name": "Tsugumi Harudori",
-    "image": "../public/images/tsugumi.jpg",
+    "image": "./images/tsugumi.png",
     "clicked": false
   },
   {
     "id": 8,
     "name": "Meme Tatane",
-    "image": "../public/images/meme.jpg",
+    "image": "./images/meme.png",
     "clicked": false
   },
   {
     "id": 9,
     "name": "Asura",
-    "image": "../public/images/asura.jpg",
+    "image": "./images/asura.jpg",
     "clicked": false
   },
   {
     "id": 10,
     "name": "Medusa",
-    "image": "../public/images/medusa.jpg",
+    "image": "./images/medusa.jpg",
     "clicked": false
   },
   {
     "id": 11,
     "name": "Arachne",
-    "image": "../public/images/arachne.jpg",
+    "image": "./images/arach.jpg",
     "clicked": false
   },
   {
     "id": 12,
     "name": "Shaula",
-    "image": "../public/images/shaula.jpg",
+    "image": "./images/shaula.jpg",
     "clicked": false
   }
 ]
